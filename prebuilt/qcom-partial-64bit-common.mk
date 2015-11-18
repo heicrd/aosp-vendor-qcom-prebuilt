@@ -13,14 +13,54 @@
 # limitations under the License.
 
 PRODUCT_PACKAGES += \
-	addrsetup \
 	irsc_util \
 	mlog_qmi_service \
+	mm-qcamera-daemon \
 	netmgrd \
+	pm-proxy \
+	pm-service \
 	qmuxd \
 	rfs_access \
 	rmt_storage \
 	sct_service \
 	sensors \
 	ta_qmi_service \
-	tad_static
+	tad_static \
+	libQSEEComAPI \
+	libacdb-fts \
+	libacdbloader \
+	libacdbmapper \
+	libacdbrtac \
+	libadiertac \
+	libaudcal \
+	libaudioalsa \
+	libcneapiclient \
+	libconfigdb \
+	libdiag \
+	libdrmfs \
+	libdsi_netctrl \
+	libdsutils \
+	libidl \
+	libmdmdetect \
+	libmiscta \
+	libnetmgr \
+	libperipheral_client \
+	libqcci_legacy \
+	libqdi \
+	libqdp \
+	libqmi \
+	libqmi_cci \
+	libqmi_client_qmux \
+	libqmi_common_so \
+	libqmi_csi \
+	libqmi_encdec \
+	libqmiservices \
+	libril-qc-qmi-1 \
+	libril-qcril-hook-oem \
+	librmnetctl \
+	libsensor1 \
+	libsensor_reg \
+	libsystem_health_mon \
+	libta \
+	libxml \
+	libxml2

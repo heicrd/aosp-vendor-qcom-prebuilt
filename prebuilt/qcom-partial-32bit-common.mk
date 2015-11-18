@@ -13,13 +13,33 @@
 # limitations under the License.
 
 PRODUCT_PACKAGES += \
-	addrsetup \
-	irsc_util \
-	mlog_qmi_service \
-	netmgrd \
-	qmuxd \
-	rmt_storage \
-	sct_service \
-	sensors \
-	ta_qmi_service \
-	tad_static
+	libQSEEComAPI \
+	libacdb-fts \
+	libacdbloader \
+	libacdbmapper \
+	libacdbrtac \
+	libadiertac \
+	libaudcal \
+	libaudioalsa \
+	libdrmfs \
+	libfastcvadsp_stub \
+	libfastcvopt \
+	libloc_api_v02 \
+	libloc_ds_api \
+	libmiscta \
+	libmmcamera2_frame_algorithm \
+	libmmcamera2_is \
+	libmmcamera2_q3a_core \
+	libmmcamera2_stats_algorithm \
+	libmmcamera_cac2_lib \
+	libmmcamera_hdr_gb_lib \
+	libmmcamera_tintless_algo \
+	libmmcamera_tintless_bg_pca_algo \
+	libsensor1 \
+	libsensor_reg \
+	libta \
+	libxml \
+	libxml2 \
+	libqcbassboost \
+	libqcreverb \
+	libqcvirt
