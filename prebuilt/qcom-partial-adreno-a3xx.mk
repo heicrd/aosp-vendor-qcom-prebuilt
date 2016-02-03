@@ -29,6 +29,5 @@ PRODUCT_PACKAGES += \
 	libllvm-qcom \
 	librs_adreno \
 	librs_adreno_sha1 \
-	libbccQTI \
 	libsc-a2xx \
 	libsc-a3xx
