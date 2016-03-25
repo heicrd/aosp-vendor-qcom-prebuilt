@@ -14,7 +14,6 @@
 
 PRODUCT_PACKAGES += \
 	eglsubAndroid \
-	libplayback_adreno \
 	libEGL_adreno \
 	libGLESv1_CM_adreno \
 	libGLESv2_adreno \
@@ -22,13 +21,13 @@ PRODUCT_PACKAGES += \
 	libC2D2 \
 	libCB \
 	libOpenCL \
-	libbccQTI \
 	libRSDriver_adreno \
 	libadreno_utils \
-	libc2d30 \
 	libc2d30-a3xx \
+	libc2d30-a4xx \
 	libgsl \
 	libllvm-qcom \
 	librs_adreno \
 	librs_adreno_sha1 \
+	libsc-a2xx \
 	libsc-a3xx
