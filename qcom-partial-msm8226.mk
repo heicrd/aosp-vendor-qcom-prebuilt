@@ -21,7 +21,6 @@ PRODUCT_PACKAGES += \
 	pm-proxy \
 	pm-service \
 	qmuxd \
-	qseecomd \
 	rmt_storage \
 	sct_service \
 	sensors \
@@ -29,20 +28,13 @@ PRODUCT_PACKAGES += \
 	tad_static \
 	wcnss_service \
 	libQSEEComAPI \
-	libacdb-fts \
-	libacdbloader \
-	libacdbmapper \
-	libacdbrtac \
 	libactuator_bu64291gwz \
 	libactuator_bu64291gwz_camcorder \
 	libactuator_bu64291gwz_camera \
 	libactuator_dw9714 \
 	libactuator_dw9714_camcorder \
 	libactuator_dw9714_camera \
-	libadiertac \
 	libadsprpc \
-	libaudcal \
-	libaudioalsa \
 	libchromatix_imx134_common \
 	libchromatix_imx134_cpp_liveshot \
 	libchromatix_imx134_cpp_preview \
@@ -159,7 +151,6 @@ PRODUCT_PACKAGES += \
 	libmmqjpegdma \
 	libnetmgr \
 	liboemcamera \
-	libomx-dts \
 	libperipheral_client \
 	libqcci_legacy \
 	libqdi \
