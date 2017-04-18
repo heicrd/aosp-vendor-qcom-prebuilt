@@ -13,6 +13,19 @@
 # limitations under the License.
 
 PRODUCT_PACKAGES += \
+	a530_gpmu \
+	a530_pfp \
+	a530_pm4 \
+	a530_zap_b00 \
+	a530_zap_b01 \
+	a530_zap_b02 \
+	a530_zap_elf \
+	a530_zap_mdt \
+	a530v1_pfp \
+	a530v1_pm4 \
+	a530v2_seq \
+	a530v3_gpmu \
+	a530v3_seq \
 	eglSubDriverAndroid \
 	libEGL_adreno \
 	libGLESv1_CM_adreno \
@@ -32,7 +45,6 @@ PRODUCT_PACKAGES += \
 	libgsl \
 	libllvm-glnext \
 	libllvm-qcom \
-	libllvm-qgl \
 	libmm-qdcm \
 	librs_adreno \
 	librs_adreno_sha1 \

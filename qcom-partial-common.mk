@@ -21,14 +21,20 @@ PRODUCT_PACKAGES += \
 	libmmcamera2_q3a_core \
 	libmmcamera2_stats_algorithm \
 	libmmcamera_chromaflash_lib \
+	libmmcamera_facedetection_lib \
 	libmmcamera_hdr_gb_lib \
+	libmmcamera_llvd \
+	libmmcamera_optizoom_lib \
+	libmmcamera_paaf_lib \
 	libmmcamera_pdaf \
 	libmmcamera_pdafcamif \
+	libmmcamera_ppeiscore \
 	libmmcamera_stillmore_lib \
 	libmmcamera_tintless_algo \
 	libmmcamera_tintless_bg_pca_algo \
 	libmmcamera_trueportrait_lib \
 	libmmcamera_ubifocus_lib \
+	liboptizoom \
 	libseemore \
 	libtrueportrait \
 	libubifocus
