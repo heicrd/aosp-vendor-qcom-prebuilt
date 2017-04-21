@@ -13,7 +13,6 @@
 # limitations under the License.
 
 PRODUCT_PACKAGES += \
-	hci_qcomm_init \
 	irsc_util \
 	mlog_qmi_service \
 	msm_irqbalance \
@@ -21,6 +20,7 @@ PRODUCT_PACKAGES += \
 	pm-proxy \
 	pm-service \
 	qmuxd \
+	qseecomd \
 	rmt_storage \
 	sct_service \
 	sensord \
@@ -35,9 +35,53 @@ PRODUCT_PACKAGES += \
 	libdrmtime \
 	libdsi_netctrl \
 	libdsutils \
+	libflash_pmic \
 	libidl \
-	libloc_api_v02 \
-	libloc_ds_api \
+	libjpegdhw \
+	libjpegdmahw \
+	libjpegehw \
+	liblqe \
+	libmdmdetect \
+	libmiscta \
+	libmmjpeg \
+	libmmqjpeg_codec \
+	libmmqjpegdma \
+	libnetmgr \
+	libperipheral_client \
+	libqcci_legacy \
+	libqdi \
+	libqdp \
+	libqmi \
+	libqmi_cci \
+	libqmi_client_helper \
+	libqmi_client_qmux \
+	libqmi_common_so \
+	libqmi_csi \
+	libqmi_encdec \
+	libqmiservices \
+	libqomx_jpegdec \
+	libqomx_jpegenc \
+	libqomx_jpegenc_pipe \
+	libril-qc-qmi-1 \
+	libril-qc-qmi-2 \
+	libril-qcril-hook-oem \
+	librpmb \
+	libsmemlog \
+	libssd \
+	libsystem_health_mon \
+	libta \
+	libtime_genoff \
+	libxml \
+	gatekeeper.msm8916 \
+	libQSEEComAPI \
+	libadsprpc \
+	libconfigdb \
+	libdiag \
+	libdrmfs \
+	libdrmtime \
+	libdsi_netctrl \
+	libdsutils \
+	libidl \
 	liblqe \
 	libmdmdetect \
 	libmiscta \
